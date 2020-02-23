@@ -1,0 +1,1475 @@
+{
+    "count": 21,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 2216,
+            "name": "Friends & Foes Amsterdam",
+            "lat": 52.3508855,
+            "lng": 4.903217300000051,
+            "address1": "van Woustraat 202-A",
+            "address2": "",
+            "city": "Amsterdam",
+            "province": "Netherlands",
+            "postal_code": "1073 NA",
+            "country": "Netherlands",
+            "phone": "0031629112371",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 7,
+                    "hours": "13:00-18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "13:00-22:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "13:00-19:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "13:00-22:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "13:00-19:00"
+                },
+                {
+                    "day_of_week": 6,
+                    "hours": "11:00-18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "log",
+                "plg",
+                "cat",
+                "phg",
+                "zman",
+                "ffg",
+                "dow",
+                "swc"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "http://www.facebook.com/friendsfoes"
+                },
+                {
+                    "social_tag": "twitch",
+                    "url": "http://www.friendsfoes.nl"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3705,
+            "name": "Game Mania Amsterdam Ceintuurbaan",
+            "lat": 52.3532844,
+            "lng": 4.893326000000002,
+            "address1": "Ceintuurbaan 139",
+            "address2": "",
+            "city": "Amsterdam",
+            "province": "",
+            "postal_code": "1072 GA",
+            "country": "Nederland",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 1572,
+            "name": "De Groene Godin",
+            "lat": 52.3865023,
+            "lng": 4.636741799999982,
+            "address1": "Kruisweg 43A",
+            "address2": "",
+            "city": "Haarlem",
+            "province": "",
+            "postal_code": "2011 LA",
+            "country": "Netherlands",
+            "phone": "+31(0)235517035",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 3,
+                    "hours": "10:30-18:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:30-18:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:30-18:00"
+                },
+                {
+                    "day_of_week": 6,
+                    "hours": "10:30-18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "phg",
+                "zman",
+                "ffg",
+                "dow",
+                "swc"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/de.groene.godin/"
+                },
+                {
+                    "social_tag": "twitter",
+                    "url": "https://www.twitter.com/GroeneGodin"
+                }
+            ],
+            "events": [
+                {
+                    "id": 31733,
+                    "name": "KeyForge Middag",
+                    "description": "Gezellig, ontspannen, voor zowel beginners als gevorderden.\nHapjes, drankjes en natuurlijk KeyForge goodies.\nEntree EUR 15",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [
+                        "bb21a572-3d9e-4eaf-9287-b56a483a2ab7"
+                    ],
+                    "date_start": "2020-02-02T12:30:00Z",
+                    "date_end": "2020-02-02T17:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 31734,
+                    "name": "KeyForge Middag",
+                    "description": "",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [],
+                    "date_start": "2020-03-01T12:30:00Z",
+                    "date_end": "2020-03-01T17:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 31735,
+                    "name": "KeyForge Middag",
+                    "description": "",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [],
+                    "date_start": "2020-04-05T11:30:00Z",
+                    "date_end": "2020-04-05T16:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 31736,
+                    "name": "KeyForge Middag",
+                    "description": "",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [],
+                    "date_start": "2020-05-03T11:30:00Z",
+                    "date_end": "2020-05-03T16:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 31737,
+                    "name": "KeyForge Middag",
+                    "description": "",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [],
+                    "date_start": "2020-06-07T11:30:00Z",
+                    "date_end": "2020-06-07T16:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 31738,
+                    "name": "KeyForge Middag",
+                    "description": "",
+                    "location": 1572,
+                    "lat": 52.3865023,
+                    "lng": 4.636741799999982,
+                    "product_lines": [],
+                    "date_start": "2020-07-05T11:30:00Z",
+                    "date_end": "2020-07-05T16:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.degroenegodin.nl",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Kruisweg 43A",
+                    "address2": null,
+                    "city": "Haarlem",
+                    "province": null,
+                    "postal_code": "2011 LA",
+                    "country": "Netherlands"
+                }
+            ],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3532,
+            "name": "Spellenhuis Haarlem",
+            "lat": 52.3864958,
+            "lng": 4.636289000000033,
+            "address1": "Kruisweg 60",
+            "address2": "",
+            "city": "Haarlem",
+            "province": "",
+            "postal_code": "2011LE",
+            "country": "Netherlands",
+            "phone": "0235313188",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 7,
+                    "hours": "13:00 - 19:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "11:00 - 23:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "11:00 - 23:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "11:00 - 24:00"
+                },
+                {
+                    "day_of_week": 6,
+                    "hours": "11:00 - 24:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "log",
+                "plg",
+                "cat",
+                "phg",
+                "zman",
+                "ffg",
+                "dow",
+                "swc"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3706,
+            "name": "Game Mania Utrecht",
+            "lat": 52.0913265,
+            "lng": 5.111387299999933,
+            "address1": "Gildenkwartier 197",
+            "address2": "",
+            "city": "Utrecht",
+            "province": "",
+            "postal_code": "3511 DH",
+            "country": "Nederland",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 2290,
+            "name": "Subcultures",
+            "lat": 52.0888388,
+            "lng": 5.120904200000041,
+            "address1": "Oudegracht 183",
+            "address2": "",
+            "city": "Utrecht",
+            "province": "",
+            "postal_code": "3511NE",
+            "country": "Netherlands",
+            "phone": "0031307371007",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "11:00-19:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "11:00-19:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "11:00-18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "11:00-18:00"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "13:00-18:00"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00-18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [
+                {
+                    "id": 29280,
+                    "name": "KeyForge Utrecht Prime Championship",
+                    "description": "Dit evenement is in In De Ruimte: https://www.google.com/maps/place/In+De+Ruimte/@52.0881834,5.1195253,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f5a7b1ecec7:0x852412860155330f!8m2!3d52.0881834!4d5.121714\n\n2 keer per maand spelen we Keyforge met de Keyforge Community van Subcultures op onze wekelijkse gamenight in In De Ruimte. De 2e maandag van de maand spelen we casual play waarbij er participation prizes zijn voor alle deelnemers uit de S1 kit en de 4e maandag van de maand spelen we een toernooi waarbij het format iedere maand bepaald wordt. De kosten voor het toernooi zijn hoger en afhankelijk van de prijzenkits dit beschikbaar gesteld worden voor de toernooien. Alle evenementen zijn chainbound.",
+                    "location": 2290,
+                    "lat": 52.0888388,
+                    "lng": 5.120904200000041,
+                    "product_lines": [
+                        "bb21a572-3d9e-4eaf-9287-b56a483a2ab7"
+                    ],
+                    "date_start": "2020-01-12T09:00:00Z",
+                    "date_end": "2020-01-13T05:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 3,
+                    "link": "https://www.facebook.com/events/869413300100339/",
+                    "registration_link": "https://www.facebook.com/events/869413300100339/",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Prime Championship #1",
+                    "address1": "Oudegracht 183",
+                    "address2": null,
+                    "city": "Utrecht",
+                    "province": null,
+                    "postal_code": "3511NE",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 33841,
+                    "name": "KeyForge Utrecht Casual play",
+                    "description": "Dit evenement is in In De Ruimte: https://www.google.com/maps/place/In+De+Ruimte/@52.0881834,5.1195253,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f5a7b1ecec7:0x852412860155330f!8m2!3d52.0881834!4d5.121714\n\n2 keer per maand spelen we Keyforge met de Keyforge Community van Subcultures op onze wekelijkse gamenight in In De Ruimte. De 2e maandag van de maand spelen we casual play waarbij er participation prizes zijn voor alle deelnemers uit de S1 kit en de 4e maandag van de maand spelen we een toernooi waarbij het format iedere maand bepaald wordt. De kosten voor het toernooi zijn hoger en afhankelijk van de prijzenkits dit beschikbaar gesteld worden voor de toernooien. Alle evenementen zijn chainbound.",
+                    "location": 2290,
+                    "lat": 52.0888388,
+                    "lng": 5.120904200000041,
+                    "product_lines": [],
+                    "date_start": "2020-01-13T18:30:00Z",
+                    "date_end": "2020-01-13T22:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 3,
+                    "link": "https://www.facebook.com/events/417853558855297/",
+                    "registration_link": "https://www.facebook.com/events/417853558855297/",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Oudegracht 183",
+                    "address2": null,
+                    "city": "Utrecht",
+                    "province": null,
+                    "postal_code": "3511NE",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 33842,
+                    "name": "KeyForge Utrecht Tournament",
+                    "description": "Dit evenement is in In De Ruimte: https://www.google.com/maps/place/In+De+Ruimte/@52.0881834,5.1195253,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f5a7b1ecec7:0x852412860155330f!8m2!3d52.0881834!4d5.121714\n\n2 keer per maand spelen we Keyforge met de Keyforge Community van Subcultures op onze wekelijkse gamenight in In De Ruimte. De 2e maandag van de maand spelen we casual play waarbij er participation prizes zijn voor alle deelnemers uit de S1 kit en de 4e maandag van de maand spelen we een toernooi waarbij het format iedere maand bepaald wordt. De kosten voor het toernooi zijn hoger en afhankelijk van de prijzenkits dit beschikbaar gesteld worden voor de toernooien. Alle evenementen zijn chainbound.",
+                    "location": 2290,
+                    "lat": 52.0888388,
+                    "lng": 5.120904200000041,
+                    "product_lines": [],
+                    "date_start": "2020-01-27T18:30:00Z",
+                    "date_end": "2020-01-27T22:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.facebook.com/events/786082031809017/",
+                    "registration_link": "https://www.facebook.com/events/786082031809017/",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Oudegracht 183",
+                    "address2": null,
+                    "city": "Utrecht",
+                    "province": null,
+                    "postal_code": "3511NE",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 33844,
+                    "name": "KeyForge Utrecht Casual play",
+                    "description": "Dit evenement is in In De Ruimte: https://www.google.com/maps/place/In+De+Ruimte/@52.0881834,5.1195253,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f5a7b1ecec7:0x852412860155330f!8m2!3d52.0881834!4d5.121714\n\n2 keer per maand spelen we Keyforge met de Keyforge Community van Subcultures op onze wekelijkse gamenight in In De Ruimte. De 2e maandag van de maand spelen we casual play waarbij er participation prizes zijn voor alle deelnemers uit de S1 kit en de 4e maandag van de maand spelen we een toernooi waarbij het format iedere maand bepaald wordt. De kosten voor het toernooi zijn hoger en afhankelijk van de prijzenkits dit beschikbaar gesteld worden voor de toernooien. Alle evenementen zijn chainbound.",
+                    "location": 2290,
+                    "lat": 52.0888388,
+                    "lng": 5.120904200000041,
+                    "product_lines": [],
+                    "date_start": "2020-02-10T18:30:00Z",
+                    "date_end": "2020-02-10T22:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 3,
+                    "link": "https://www.facebook.com/events/481634552553815/",
+                    "registration_link": "https://www.facebook.com/events/481634552553815/",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Oudegracht 183",
+                    "address2": null,
+                    "city": "Utrecht",
+                    "province": null,
+                    "postal_code": "3511NE",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 33845,
+                    "name": "KeyForge Utrecht Tournament",
+                    "description": "Dit evenement is in In De Ruimte: https://www.google.com/maps/place/In+De+Ruimte/@52.0881834,5.1195253,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f5a7b1ecec7:0x852412860155330f!8m2!3d52.0881834!4d5.121714\n\n2 keer per maand spelen we Keyforge met de Keyforge Community van Subcultures op onze wekelijkse gamenight in In De Ruimte. De 2e maandag van de maand spelen we casual play waarbij er participation prizes zijn voor alle deelnemers uit de S1 kit en de 4e maandag van de maand spelen we een toernooi waarbij het format iedere maand bepaald wordt. De kosten voor het toernooi zijn hoger en afhankelijk van de prijzenkits dit beschikbaar gesteld worden voor de toernooien. Alle evenementen zijn chainbound.",
+                    "location": 2290,
+                    "lat": 52.0888388,
+                    "lng": 5.120904200000041,
+                    "product_lines": [],
+                    "date_start": "2020-02-24T18:30:00Z",
+                    "date_end": "2020-02-24T22:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.facebook.com/events/480854579479130/",
+                    "registration_link": "https://www.facebook.com/events/480854579479130/",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Oudegracht 183",
+                    "address2": null,
+                    "city": "Utrecht",
+                    "province": null,
+                    "postal_code": "3511NE",
+                    "country": "Netherlands"
+                }
+            ],
+            "photos": [],
+            "flags": [
+                "keyforge_leaderboard_optin"
+            ]
+        },
+        {
+            "id": 2723,
+            "name": "De Spellenhoorn",
+            "lat": 52.6412266,
+            "lng": 5.060630700000047,
+            "address1": "Wisselstraat 4",
+            "address2": "",
+            "city": "Hoorn",
+            "province": "Nederland",
+            "postal_code": "1621CT",
+            "country": "NL",
+            "phone": "229295665",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 1,
+                    "hours": "13:00-18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:00-18:00, 19:00-21:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00-17:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "log",
+                "plg",
+                "cat",
+                "phg",
+                "zman",
+                "ffg",
+                "dow",
+                "swc"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 2455,
+            "name": "De Tafelridder",
+            "lat": 52.1622417,
+            "lng": 4.50073210000005,
+            "address1": "Oude Herengracht 11A",
+            "address2": "",
+            "city": "leiden",
+            "province": "",
+            "postal_code": "2312LN",
+            "country": "The Netherlands",
+            "phone": "+31 (0)6 42328962",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 1606,
+            "name": "Bordspelers Gouda",
+            "lat": 52.0107185,
+            "lng": 4.707643200000007,
+            "address1": "Lange Groenendaal 82",
+            "address2": "",
+            "city": "Gouda",
+            "province": "Zuid-Holland",
+            "postal_code": "2801 LV",
+            "country": "Nederland",
+            "phone": "+31850020048",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "11.00-17.00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "13.00-17.00, 19.00-23.00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "13.00-17.00, 19.00-23.00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "13.00-17.00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/bordspelers/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 2660,
+            "name": "Spel en Meer",
+            "lat": 52.0561987,
+            "lng": 4.497820600000068,
+            "address1": "Dorpsstraat 86A",
+            "address2": "",
+            "city": "Zoetermeer",
+            "province": "Zuid-Holland",
+            "postal_code": "2712AM",
+            "country": "Netherlands",
+            "phone": "079-7370038",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10-21"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "12-18"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "10-17"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "http://www.facebook.com/spelenmeer"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": [
+                "keyforge_leaderboard_optin"
+            ]
+        },
+        {
+            "id": 2434,
+            "name": "Tabletop Kingdom",
+            "lat": 52.0791049,
+            "lng": 4.316839100000038,
+            "address1": "Korte Houtstraat 13",
+            "address2": "",
+            "city": "'s-Gravenhage",
+            "province": "Zuid Holland",
+            "postal_code": "2511CC",
+            "country": "Nederland",
+            "phone": "+31652616446",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "12:00 - 21:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "12:00 - 21:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00 - 18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/TabletopKingdom/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": [
+                "keyforge_leaderboard_optin"
+            ]
+        },
+        {
+            "id": 3531,
+            "name": "Spellenhuis Den Haag",
+            "lat": 52.0836807,
+            "lng": 4.29296869999996,
+            "address1": "Zoutmanstraat 94",
+            "address2": "",
+            "city": "Den Haag",
+            "province": "Netherlands",
+            "postal_code": "2518 GT",
+            "country": "Nederland",
+            "phone": "0703644782",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 1,
+                    "hours": "12:00-17:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00-17:30"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "log",
+                "plg",
+                "cat",
+                "phg",
+                "zman",
+                "ffg",
+                "dow",
+                "swc"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3707,
+            "name": "Game Mania Delft",
+            "lat": 52.0109232,
+            "lng": 4.358423000000016,
+            "address1": "Oude Langedijk 11",
+            "address2": "",
+            "city": "Delft",
+            "province": "",
+            "postal_code": "2611 GK",
+            "country": "Nederland",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 2000,
+            "name": "Bazaar of Magic",
+            "lat": 51.9832943,
+            "lng": 4.372519099999977,
+            "address1": "Schieweg 87c",
+            "address2": "",
+            "city": "Delft",
+            "province": "Zuid-Holland",
+            "postal_code": "2627AT",
+            "country": "Netherlands",
+            "phone": "+31157370224",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "9:30 - 17:30"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "9:30 - 17:30"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "9:30 - 17:30"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "9:30 - 17:30"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "9:30 - 17:30"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/BazaarofMagic"
+                }
+            ],
+            "events": [
+                {
+                    "id": 33825,
+                    "name": "KeyForge Reversal",
+                    "description": "Reversal",
+                    "location": 2000,
+                    "lat": 51.9832943,
+                    "lng": 4.372519099999977,
+                    "product_lines": [
+                        "bb21a572-3d9e-4eaf-9287-b56a483a2ab7"
+                    ],
+                    "date_start": "2020-02-14T18:30:00Z",
+                    "date_end": "2020-02-14T22:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.bazaarofmagic.eu/nl-NL/events/keyforge-reversal/193",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Schieweg 87c",
+                    "address2": null,
+                    "city": "Delft",
+                    "province": "Zuid-Holland",
+                    "postal_code": "2627AT",
+                    "country": "Netherlands"
+                },
+                {
+                    "id": 33826,
+                    "name": "Mixed Two Deck Sealed Survival",
+                    "description": "Sealed Two Deck Survival (mixed sets)",
+                    "location": 2000,
+                    "lat": 51.9832943,
+                    "lng": 4.372519099999977,
+                    "product_lines": [
+                        "bb21a572-3d9e-4eaf-9287-b56a483a2ab7"
+                    ],
+                    "date_start": "2020-02-29T10:15:00Z",
+                    "date_end": "2020-02-29T16:00:00Z",
+                    "timezone": "Europe/Amsterdam",
+                    "event_type": 1,
+                    "link": "https://www.bazaarofmagic.eu/nl-NL/events/keyforge-mixed-sealed-two-deck-survival/191",
+                    "registration_link": "",
+                    "social_links": [],
+                    "studios": [
+                        "ffg"
+                    ],
+                    "event_series": "Chainbound 2020",
+                    "address1": "Schieweg 87c",
+                    "address2": null,
+                    "city": "Delft",
+                    "province": "Zuid-Holland",
+                    "postal_code": "2627AT",
+                    "country": "Netherlands"
+                }
+            ],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3782,
+            "name": "Tabletop Kingdom Rotterdam",
+            "lat": 51.92478449999999,
+            "lng": 4.476318900000024,
+            "address1": "Weena 109",
+            "address2": "",
+            "city": "Rotterdam",
+            "province": "",
+            "postal_code": "3013 CH",
+            "country": "Netherlands",
+            "phone": "+316 45329692",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "12:00 - 21:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "12:00 - 21:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00 - 18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/Tabletop-Kingdom-Rotterdam-104900320957286/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": [
+                "keyforge_leaderboard_optin"
+            ]
+        },
+        {
+            "id": 1570,
+            "name": "De Tinnen Soldaat",
+            "lat": 52.0413201,
+            "lng": 5.655755499999941,
+            "address1": "Soembalaan 12",
+            "address2": "",
+            "city": "Ede",
+            "province": "Gelderland",
+            "postal_code": "6712AL",
+            "country": "the Netherlands",
+            "phone": "+31626223550",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "12:00 - 21:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "12:00 - 18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "12:00 -  18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "12:00 - 18:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/DeTinnenSoldaat/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3160,
+            "name": "4 Your Games",
+            "lat": 51.8135573,
+            "lng": 4.660585999999967,
+            "address1": "Voorstraat 410",
+            "address2": "",
+            "city": "Dordrecht",
+            "province": "Zuid-Holland",
+            "postal_code": "3311 CX",
+            "country": "Nederland",
+            "phone": "0787370382",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00-17:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:00-17:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10:00-17:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10:00-17:00"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00-17:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/4yourgames/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 1792,
+            "name": "De Dobbelsteen 's-Hertogenbosch",
+            "lat": 51.686991028965366,
+            "lng": 5.301128625869751,
+            "address1": "Vughterstraat 56",
+            "address2": "",
+            "city": "'s-Hertogenbosch",
+            "province": "Noord Brabant",
+            "postal_code": "5211GK",
+            "country": "Nederland",
+            "phone": "+31736145530",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00-17:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:00-21:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10:00-18:00"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "13:00-17:30"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00-17:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "dow",
+                "ffg",
+                "zman",
+                "cat"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/DeDobbelsteenDB/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 1845,
+            "name": "De Dobbelsteen Arnhem",
+            "lat": 51.98342539999999,
+            "lng": 5.915282899999966,
+            "address1": "Steenstraat 4",
+            "address2": "",
+            "city": "Arnhem",
+            "province": "",
+            "postal_code": "6828CJ",
+            "country": "Netherlands",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "12:00 - 18:00"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12:00 - 17:00"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/DobbelsteenArnhem/"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 1584,
+            "name": "Vendetta Arnhem",
+            "lat": 51.9843257,
+            "lng": 5.91975530000002,
+            "address1": "Steenstraat 106",
+            "address2": "",
+            "city": "Arnhem",
+            "province": "Gelderland",
+            "postal_code": "6828CP",
+            "country": "Nederland",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [
+                {
+                    "day_of_week": 6,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 5,
+                    "hours": "10-21"
+                },
+                {
+                    "day_of_week": 4,
+                    "hours": "10-21"
+                },
+                {
+                    "day_of_week": 3,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 2,
+                    "hours": "10-18"
+                },
+                {
+                    "day_of_week": 1,
+                    "hours": "12-17"
+                },
+                {
+                    "day_of_week": 7,
+                    "hours": "12-17"
+                }
+            ],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [
+                {
+                    "social_tag": "fb",
+                    "url": "https://www.facebook.com/vendettaarnhem/?eid=ARDaKoyiGkSPuFlML-qVtcVxVMqR7yBsIbXD_jamDw3PF47OVmP5SxtDXmUzdx9Qquw87SOTQ1YazsCW"
+                }
+            ],
+            "events": [],
+            "photos": [],
+            "flags": []
+        },
+        {
+            "id": 3704,
+            "name": "Game Mania Arnhem Kronenburg",
+            "lat": 51.9584148,
+            "lng": 5.896868100000006,
+            "address1": "Kronenburgpassage 39",
+            "address2": "",
+            "city": "Arnhem",
+            "province": "",
+            "postal_code": "6831 EN",
+            "country": "Nederland",
+            "phone": "",
+            "logo": null,
+            "working_hours": "",
+            "daily_working_hours": [],
+            "homepage_link": "",
+            "studios": [
+                "swc",
+                "dow",
+                "ffg",
+                "zman",
+                "phg",
+                "cat",
+                "plg",
+                "log"
+            ],
+            "social_links": [],
+            "events": [],
+            "photos": [],
+            "flags": []
+        }
+    ]
+}

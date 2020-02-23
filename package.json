@@ -14,9 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "airtable": "^0.7.1",
+    "axios": "^0.19.1",
     "bulma": "^0.7.5",
+    "dotenv": "^8.2.0",
     "eslint": "^6.4.0",
+    "geo-coordinates-parser": "^1.2.3",
+    "moment": "^2.24.0",
     "next": "^9.0.6",
+    "node-geocoder": "^3.25.0",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
