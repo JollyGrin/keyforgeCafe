@@ -20,7 +20,7 @@
     "eslint": "^6.4.0",
     "geo-coordinates-parser": "^1.2.3",
     "moment": "^2.24.0",
-    "next": "^9.0.6",
+    "next": "^9.3.2",
     "node-geocoder": "^3.25.0",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
