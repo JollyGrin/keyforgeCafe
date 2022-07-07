@@ -19,7 +19,7 @@
     "dotenv": "^8.2.0",
     "eslint": "^6.4.0",
     "geo-coordinates-parser": "^1.2.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "next": "^9.0.6",
     "node-geocoder": "^3.25.0",
     "node-sass": "^4.12.0",
